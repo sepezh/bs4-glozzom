@@ -1,4 +1,4 @@
-# bs4-glozzom
+# ‌BrandHub
 
 Theme based on bootstrap v4 framework
 
